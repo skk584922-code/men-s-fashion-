@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?x
+ml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
@@ -6,3 +7,41 @@
 </url>
 
 </urlset>
+cat > sitemap.xml <<'EOF'
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/casual.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/linen.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/summer.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/smart-casual.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/trousers.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/privacy.html</loc>
+</url>
+
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/disclosure.html</loc>
+</url>
+
+</urlset>
+EOF
