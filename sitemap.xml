@@ -42,6 +42,8 @@ cat > sitemap.xml <<'EOF'
 <url>
 <loc>https://skk584922-code.github.io/men-s-fashion-/disclosure.html</loc>
 </url>
-
+<url>
+<loc>https://skk584922-code.github.io/men-s-fashion-/contact.html</loc>
+</url>
 </urlset>
-EOF
+
